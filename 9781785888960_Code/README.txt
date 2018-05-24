@@ -1,0 +1,5 @@
+You will need to have some familiarity with JavaScript, and have a copy of Node installed on your development machine or server, Version 9.0 or higher. You should know how to install programs on this machine, as you will need to install Redis, along with other libraries like Docker. Having Git installed, and learning how to clone GitHub repositories, will greatly improve your experience.
+
+You should install RabbitMQ so that you can follow with the examples using message queues. The sections on using NGINX to proxy Node servers will, of course, require that you can install and use that web server. To build C++ add-ons, you will need to install the appropriate compiler on your system.
+
+The examples in this book are built and tested within UNIX-based environments (including Mac OS X), but you should be able to run all Node examples on Windows-based operating systems as well. You can obtain installers for your system, and binaries, from http://www.nodejs.org.

@@ -1,0 +1,15 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha ./spec --require ./spec/helpers/chai.js --reporter spec"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "redis": "^2.8.0",
+    "sinon": "^4.5.0"
+  }
+}
